@@ -50,7 +50,7 @@ Make sure you have ESP-IDF and ESP-Matter properly installed and the environment
 . $HOME/esp/esp-matter/export.sh
 ```
 
-## 🚀 How to Run Everything
+## How to Run Everything
 
 ### Step 1: Clone or Navigate to Project
 
