@@ -3,7 +3,7 @@
 [![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.0-blue)](https://github.com/espressif/esp-idf)
 [![ESP-Matter](https://img.shields.io/badge/ESP--Matter-latest-green)](https://github.com/espressif/esp-matter)
 [![Platform](https://img.shields.io/badge/Platform-ESP32--C6-orange)](https://www.espressif.com/en/products/socs/esp32-c6)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE)
+
 
 > **A professional Matter-enabled PWM controller built on ESP32-C6, enabling seamless smart home integration with Google Home and Apple Home. Control three independent dimmable lights with precise 8-bit PWM resolution .**
 
