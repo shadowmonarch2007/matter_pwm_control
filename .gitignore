@@ -1,8 +1,8 @@
 build/
+managed_components/
+sdkconfig
 sdkconfig.old
+dependencies.lock
 *.bin
 *.elf
-*.map
-*.log
-.DS_Store
-
+tests/
